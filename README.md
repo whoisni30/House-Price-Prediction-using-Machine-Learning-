@@ -146,6 +146,8 @@ HousePricePrediction_NitishKumar/
 ## 👨‍💻 Author
 
 **Nitish Kumar**
+gmail- nitishkr4web@gmail.com 
+LinkedIn - https://www.linkedin.com/in/nitish-kumar-69b32b232
 
 XYlofy AI Internship – Week 1 Project
 
