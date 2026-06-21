@@ -151,11 +151,4 @@ LinkedIn - https://www.linkedin.com/in/nitish-kumar-69b32b232
 
 XYlofy AI Internship – Week 1 Project
 
-Save this file as:
-
-```text
-README.md
-```
-
-and upload it to your GitHub repository.
 
